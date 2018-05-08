@@ -1,5 +1,7 @@
 # swift algorithm
 Study algorithms and data structures in Swift
+- 공부하며 정리중...
+- 소스는 swift로 ...이진코드 부터 만들면서 기본이될 프로젝트를 만들고,... 그다음엔.. 흐음.. 연결리스트 만들고.. 뭐 이렇게? 공부할 생각...
 
 # 알고리즘 (Algorithm)
 - 문제를 해결하기 위한 방법
