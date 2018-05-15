@@ -13,6 +13,7 @@
 		BC3ED38A20AAE3670071B53F /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = BC3ED38920AAE3670071B53F /* Assets.xcassets */; };
 		BC3ED38D20AAE3670071B53F /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = BC3ED38B20AAE3670071B53F /* LaunchScreen.storyboard */; };
 		BC3ED39520AAE51A0071B53F /* ListViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = BC3ED39420AAE51A0071B53F /* ListViewModel.swift */; };
+		BC3ED39720AAF4180071B53F /* Constants.swift in Sources */ = {isa = PBXBuildFile; fileRef = BC3ED39620AAF4180071B53F /* Constants.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		BC3ED38C20AAE3670071B53F /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		BC3ED38E20AAE3670071B53F /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		BC3ED39420AAE51A0071B53F /* ListViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ListViewModel.swift; sourceTree = "<group>"; };
+		BC3ED39620AAF4180071B53F /* Constants.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Constants.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +58,7 @@
 		BC3ED38120AAE3670071B53F /* JWSAlgorithm */ = {
 			isa = PBXGroup;
 			children = (
+				BC3ED39620AAF4180071B53F /* Constants.swift */,
 				BC3ED38220AAE3670071B53F /* AppDelegate.swift */,
 				BC3ED39420AAE51A0071B53F /* ListViewModel.swift */,
 				BC3ED38420AAE3670071B53F /* ListController.swift */,
@@ -142,6 +145,7 @@
 				BC3ED38520AAE3670071B53F /* ListController.swift in Sources */,
 				BC3ED38320AAE3670071B53F /* AppDelegate.swift in Sources */,
 				BC3ED39520AAE51A0071B53F /* ListViewModel.swift in Sources */,
+				BC3ED39720AAF4180071B53F /* Constants.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
